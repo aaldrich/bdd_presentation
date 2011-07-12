@@ -108,6 +108,5 @@ namespace BDD_Tests
 
         static OrderPlacingMessage message;
         static Order order;
-        static IRepository<Order> order_repository;
     }
 }
