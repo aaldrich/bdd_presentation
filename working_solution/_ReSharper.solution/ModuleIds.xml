@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="2CF7A77D-D667-4B20-AD60-F66265077CA7" ModuleId="BDD_Tests" />
+  <Module PersistentId="02AABA24-F2F1-44F3-B953-D2DC3E54A8B9" ModuleId="Traditional_Tests" />
+  <Module PersistentId="28AE060D-3403-4EB7-A733-41C4B8A81A3B" ModuleId="Domain" />
+  <Module PersistentId="916190EB-B9EE-4DC6-BC86-6E1D9E774ADB" ModuleId="Messages" />
+</Modules>

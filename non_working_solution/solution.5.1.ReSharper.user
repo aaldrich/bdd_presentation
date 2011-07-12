@@ -1,0 +1,208 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="28AE060D-3403-4EB7-A733-41C4B8A81A3B/f:DomainException.cs" caret="161" fromTop="7" />
+      <File id="02AABA24-F2F1-44F3-B953-D2DC3E54A8B9/f:OrderingTest.cs" caret="247" fromTop="11" />
+      <File id="28AE060D-3403-4EB7-A733-41C4B8A81A3B/d:Infrastructure/f:IRepository.cs" caret="97" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="02AABA24-F2F1-44F3-B953-D2DC3E54A8B9/f:OrderingTest.cs" caret="2713" fromTop="28" />
+      <File id="28AE060D-3403-4EB7-A733-41C4B8A81A3B/f:DomainException.cs" caret="150" fromTop="6" />
+      <File id="02AABA24-F2F1-44F3-B953-D2DC3E54A8B9/f:OrderingTest.cs" caret="2461" fromTop="25" />
+      <File id="02AABA24-F2F1-44F3-B953-D2DC3E54A8B9/f:OrderingTest.cs" caret="2613" fromTop="29" />
+      <File id="02AABA24-F2F1-44F3-B953-D2DC3E54A8B9/f:OrderingTest.cs" caret="2338" fromTop="6" />
+      <File id="02AABA24-F2F1-44F3-B953-D2DC3E54A8B9/f:OrderingTest.cs" caret="2812" fromTop="19" />
+      <File id="02AABA24-F2F1-44F3-B953-D2DC3E54A8B9/f:OrderingTest.cs" caret="2894" fromTop="33" />
+      <File id="28AE060D-3403-4EB7-A733-41C4B8A81A3B/d:Infrastructure/f:IRepository.cs" caret="97" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="1" />
+      <Item value="Test" priority="0" />
+      <Item value="public" priority="13" />
+      <Item value="void" priority="3" />
+      <Item value="ctor" priority="6" />
+      <Item value="SetUp" priority="1" />
+      <Item value="string" priority="7" />
+      <Item value="decimal" priority="0" />
+      <Item value="long" priority="3" />
+      <Item value="IList" priority="3" />
+      <Item value="OrderPlacingTask`0" priority="0" />
+      <Item value="message" priority="16" />
+      <Item value="new" priority="19" />
+      <Item value="order_placing_task" priority="0" />
+      <Item value="var" priority="4" />
+      <Item value="OrderPlacingMessage" priority="2" />
+      <Item value="customer_email" priority="2" />
+      <Item value="customer_name" priority="2" />
+      <Item value="item_ids" priority="2" />
+      <Item value="List&lt;long&gt;" priority="2" />
+      <Item value="return" priority="6" />
+      <Item value="null" priority="1" />
+      <Item value="order" priority="17" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="Order`0" priority="13" />
+      <Item value="T`0" priority="0" />
+      <Item value="order_repository" priority="9" />
+      <Item value="Item`0" priority="3" />
+      <Item value="IRepository" priority="3" />
+      <Item value="yield return" priority="0" />
+      <Item value="item_repository" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="return_items" priority="2" />
+      <Item value="item_id" priority="0" />
+      <Item value="item" priority="0" />
+      <Item value="List&lt;Item&gt;" priority="0" />
+      <Item value="get_items`0" priority="0" />
+      <Item value="Mock`0" priority="2" />
+      <Item value="It`0" priority="6" />
+      <Item value="ArgIterator`0" priority="0" />
+      <Item value="Moq" priority="0" />
+      <Item value="Matchers" priority="0" />
+      <Item value="o" priority="1" />
+      <Item value="bool" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="shipping_task" priority="4" />
+      <Item value="interface" priority="0" />
+      <Item value="IShippingTask`0" priority="2" />
+      <Item value="if" priority="0" />
+      <Item value="emailing_task" priority="4" />
+      <Item value="IEmailingTask`0" priority="1" />
+      <Item value="Times`0" priority="1" />
+      <Item value="try" priority="2" />
+      <Item value="throw" priority="1" />
+      <Item value="DomainException" priority="1" />
+      <Item value="base" priority="0" />
+      <Item value="String`0" priority="1" />
+      <Item value="exception" priority="2" />
+      <Item value="typeof" priority="0" />
+      <Item value="DomainException`0" priority="0" />
+      <Item value="tc" priority="8" />
+      <Item value="sut" priority="2" />
+      <Item value="bddc" priority="0" />
+      <Item value="provide_a_basic_sut_constructor_argument`1" priority="0" />
+      <Item value="the_dependency`1" priority="5" />
+      <Item value="ShippingTask`0" priority="0" />
+      <Item value="exception_thrown_by_the_sut" priority="2" />
+      <Item value="catch_exception`1" priority="2" />
+      <Item value="an`1" priority="0" />
+      <Item value="Arg`0" priority="2" />
+      <Item value="Exception" priority="1" />
+      <Item value="IEmailSender`0" priority="1" />
+      <Item value="email_sender" priority="1" />
+      <Item value="IShippingService`0" priority="1" />
+      <Item value="shipping_service" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.OrderPlacingTask">
+      <Item value="place_order`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="0" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Greater`0" priority="0" />
+      <Item value="IsNotNull`0" priority="0" />
+      <Item value="IsInstanceOf`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Tasks.IRepository`1">
+      <Item value="save`1" priority="3" />
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="get_by`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Messages.OrderPlacingMessage">
+      <Item value="customer_name" priority="3" />
+      <Item value="customer_email" priority="1" />
+      <Item value="item_ids" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Object" priority="4" />
+      <Item value="Setup`1" priority="3" />
+      <Item value="Verify`1" priority="2" />
+      <Item value="Raise`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.It">
+      <Item value="Is`1" priority="0" />
+      <Item value="IsAny`1" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`1">
+      <Item value="Callback`16" priority="0" />
+      <Item value="Throws`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Tasks.ShippingTask">
+      <Item value="ship`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Entities.Order">
+      <Item value="id" priority="0" />
+      <Item value="ShouldNotBeNull`0" priority="0" />
+      <Item value="ShouldBeNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Tasks.IShippingTask">
+      <Item value="ship`0" priority="2" />
+      <Item value="AssertWasCalled`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Tasks.IEmailingTask">
+      <Item value="send`0" priority="2" />
+      <Item value="AssertWasCalled`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Infrastructure.IRepository`1">
+      <Item value="save`1" priority="4" />
+      <Item value="Stub`2" priority="1" />
+      <Item value="AssertWasCalled`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.Times">
+      <Item value="Never`0" priority="2" />
+      <Item value="Once`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Tasks.OrderPlacingTask">
+      <Item value="place_order`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="ShouldBe`0" priority="0" />
+      <Item value="ShouldBeAn`1" priority="1" />
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.Arg`1">
+      <Item value="Is" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Constraints.IsArg`1">
+      <Item value="Anything" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Throw`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Tasks.Order">
+      <Item value="ShouldNotBeNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Tasks.IEmailSender">
+      <Item value="send`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Tasks.IShippingService">
+      <Item value="ship`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
