@@ -1,0 +1,14 @@
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Traditional_Tests.dll
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Traditional_Tests.pdb
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Domain.dll
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Messages.dll
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Moq.dll
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\nunit.framework.dll
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Domain.pdb
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Messages.pdb
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Moq.pdb
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\Moq.xml
+C:\repositories\bdd_presentation\Traditional_Tests\bin\Debug\nunit.framework.xml
+C:\repositories\bdd_presentation\Traditional_Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\repositories\bdd_presentation\Traditional_Tests\obj\Debug\Traditional_Tests.dll
+C:\repositories\bdd_presentation\Traditional_Tests\obj\Debug\Traditional_Tests.pdb

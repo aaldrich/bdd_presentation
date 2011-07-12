@@ -1,0 +1,5 @@
+C:\repositories\bdd_presentation\Messages\bin\Debug\Messages.dll
+C:\repositories\bdd_presentation\Messages\bin\Debug\Messages.pdb
+C:\repositories\bdd_presentation\Messages\obj\Debug\ResolveAssemblyReference.cache
+C:\repositories\bdd_presentation\Messages\obj\Debug\Messages.dll
+C:\repositories\bdd_presentation\Messages\obj\Debug\Messages.pdb

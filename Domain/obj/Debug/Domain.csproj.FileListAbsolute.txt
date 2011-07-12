@@ -1,0 +1,7 @@
+C:\repositories\bdd_presentation\Domain\bin\Debug\Domain.dll
+C:\repositories\bdd_presentation\Domain\bin\Debug\Domain.pdb
+C:\repositories\bdd_presentation\Domain\bin\Debug\Messages.dll
+C:\repositories\bdd_presentation\Domain\bin\Debug\Messages.pdb
+C:\repositories\bdd_presentation\Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\repositories\bdd_presentation\Domain\obj\Debug\Domain.dll
+C:\repositories\bdd_presentation\Domain\obj\Debug\Domain.pdb
