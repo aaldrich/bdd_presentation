@@ -1,0 +1,48 @@
+<TemplatesExport family="Live Templates">
+  <Template uid="c21361f8-399b-4e17-8c8b-f5f7584c590a" shortcut="bddb" description="MSpec Because Block" text="Because b = () =&gt;&#xD;&#xA;{&#xD;&#xA;	$END$&#xD;&#xA;};" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Everywhere" minimumLanguageVersion="3.0" />
+    </Context>
+    <Categories>
+      <Category name="bdd" />
+    </Categories>
+    <Variables />
+    <CustomProperties />
+  </Template>
+  <Template uid="b800c43e-6331-411c-b62e-3a7e08dc8320" shortcut="bddc" description="MSpec Context Block" text="Establish context = () =&gt;&#xD;&#xA;{&#xD;&#xA;						&#xD;&#xA;};" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Everywhere" minimumLanguageVersion="3.0" />
+    </Context>
+    <Categories>
+      <Category name="bdd" />
+    </Categories>
+    <Variables />
+    <CustomProperties />
+  </Template>
+  <Template uid="13307721-69a2-4be9-a60b-a1b8cfc75746" shortcut="bddcon" description="New Concern and class" text="		public class when_$test_action$ : $filename$&#xD;&#xA;		{&#xD;&#xA;			Establish context = () =&gt;&#xD;&#xA;			{&#xD;&#xA;						&#xD;&#xA;			};&#xD;&#xA;				&#xD;&#xA;			Because b = () =&gt;&#xD;&#xA;			{&#xD;&#xA;						&#xD;&#xA;			};&#xD;&#xA;&#xD;&#xA;			It should_$test_assertion$ = () =&gt;&#xD;&#xA;			{&#xD;&#xA;				$END$&#xD;&#xA;			};&#xD;&#xA;		}&#xD;&#xA;		" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Everywhere" minimumLanguageVersion="3.0" />
+    </Context>
+    <Categories>
+      <Category name="bdd" />
+    </Categories>
+    <Variables>
+      <Variable name="test_action" expression="" initialRange="0" />
+      <Variable name="filename" expression="getFileNameWithoutExtension()" initialRange="-1" />
+      <Variable name="test_assertion" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="b1e543b6-9d15-40fe-8349-b95ac6a91979" shortcut="tc" description="Test case" text="It $OBSERVATION_NAME$ = () =&gt;&#xD;&#xA;{&#xD;&#xA;	$END$&#xD;&#xA;};" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Everywhere" minimumLanguageVersion="3.0" />
+    </Context>
+    <Categories>
+      <Category name="bdd" />
+    </Categories>
+    <Variables>
+      <Variable name="OBSERVATION_NAME" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+</TemplatesExport>
